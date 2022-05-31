@@ -10,7 +10,7 @@
 
 **Инструменты, библиотеки – Jupyter, Python, Pandas, Pymystem3, Collections**
 
-Ссыкла на репозиторий – 
+Ссыкла на репозиторий – https://github.com/EvgenKarasev/borrower-reliability-study
 
 <br>
 
