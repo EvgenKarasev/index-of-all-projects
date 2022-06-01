@@ -1,4 +1,4 @@
-# index-of-all-projects
+# all-projects
 <br>
 <br>
 
